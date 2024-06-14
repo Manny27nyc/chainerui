@@ -52,7 +52,7 @@
     "typescript": "^3.5.3",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.1",
